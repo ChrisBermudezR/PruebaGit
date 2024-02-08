@@ -1,4 +1,20 @@
-primer cambio para el commit 2
+# Table of Contents
+1. [¿Qué es Git?](#git)
+2. [Instalación de git en windows y linux](#windows)
+3. [Comandos Básicos en Git](#Comandos-Basicos-en-Git)
 
-segundo cambio para el repositorio. PRimero para la rama 01
+# Git
 
+## ¿Qué es Git?
+ lore ipsum
+
+## Instalación de git en windows y linux
+
+lore ipsum
+
+## Comandos Básicos en Git
+
+Inicializar un repositorio
+```bash
+$  git init
+```

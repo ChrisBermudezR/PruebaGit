@@ -45,34 +45,15 @@ Descarga de Git:
 
 Instalación de Git en Linux (Debian/Ubuntu):
 
-Actualiza el Índice de Paquetes:
+- Actualiza el Índice de Paquetes:
 ```bash
 sudo apt update
 ```
-Instala Git:
+- Instala Git:
 ```bash
 sudo apt install git
 ```
-Verifica la Instalación:
-
-    Después de la instalación, verifica que Git se haya instalado correctamente ejecutando:
-```bash
-$ git --version
-```
-Instalación de Git en Linux (Red Hat/CentOS):
-
-    Actualiza el Sistema:
-```bash
-sudo yum update
-```
-Instala Git:
-```bash
-sudo yum install git
-```
-Verifica la Instalación:
-
-Después de la instalación, verifica que Git se haya instalado correctamente ejecutando:
-
+- Verifica la Instalación: Después de la instalación, verifica que Git se haya instalado correctamente ejecutando:
 ```bash
 $ git --version
 ```
@@ -96,13 +77,13 @@ Configurar dirección de correo electrónico:
 ```bash
 $   git config --global user.email "tu@email.com"
 ```
-    Reemplaza "tu@email.com" con tu dirección de correo electrónico asociada a tu cuenta de Git.
+Reemplaza "tu@email.com" con tu dirección de correo electrónico asociada a tu cuenta de Git.
 
 Además de esta configuración básica, también puedes establecer otras configuraciones globales, como el editor de texto predeterminado para tus mensajes de commit, la configuración de colores para la salida del terminal, etc. Aquí hay algunos ejemplos:
 
-    Establecer el editor de texto para mensajes de commit:
+Establecer el editor de texto para mensajes de commit:
 
-    arduino
+
 ```bash
 $ git config --global core.editor "nombre_del_editor"
 ```

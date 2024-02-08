@@ -28,7 +28,22 @@ Contenido
         
 
 ## ¿Qué es Git? 
- lore ipsum
+
+Git es un sistema de control de versiones distribuido, diseñado para rastrear cambios en archivos y coordinar el trabajo entre múltiples personas en proyectos de desarrollo de software. Fue creado por Linus Torvalds en 2005, inicialmente para el desarrollo del kernel de Linux, y desde entonces se ha convertido en una de las herramientas más populares en la gestión de código fuente.
+
+En esencia, Git permite a los desarrolladores colaborar de manera eficiente en proyectos de software al proporcionar un historial completo de cambios en el código, así como herramientas para gestionar ramificaciones (branching) y fusiones (merging) de código. Algunas de las características principales de Git incluyen:
+
+1. **Control de Versiones**: Git almacena todos los cambios realizados en un proyecto, lo que permite a los desarrolladores retroceder en el tiempo y recuperar versiones anteriores del código si es necesario.
+
+2. **Gestión de Ramas**: Git permite la creación de ramas independientes del flujo principal de desarrollo, lo que facilita la implementación de nuevas características o la corrección de errores sin afectar el código base.
+
+3. **Fusiones**: Git proporciona herramientas para fusionar ramas, lo que permite combinar cambios de diferentes desarrolladores de manera ordenada y sin conflictos.
+
+4. **Distribuido**: Cada copia de un repositorio Git contiene todo el historial de cambios, lo que significa que los desarrolladores pueden trabajar de manera independiente sin necesidad de una conexión constante a un servidor central.
+
+5. **Velocidad y Eficiencia**: Git está diseñado para ser rápido y eficiente, lo que permite manejar proyectos de cualquier tamaño con facilidad.
+
+En resumen, Git es una herramienta esencial para cualquier equipo de desarrollo de software, ya que facilita la colaboración, el seguimiento de cambios y la gestión del código fuente de manera efectiva.
 
 ## Instalación de git en windows y linux 
 

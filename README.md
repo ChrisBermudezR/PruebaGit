@@ -1,18 +1,18 @@
-# Table of Contents
-1. [¿Qué es Git?](#git)
-2. [Instalación de git en windows y linux](#windows)
-3. [Comandos Básicos en Git](#Comandos-Basicos-en-Git)
-
 # Git
 
-## ¿Qué es Git?
+# Contenido
+- [Git](#git)
+    - [¿Qué es Git?](#que)
+    - [Instalación de git en windows y linux](#instalacion)
+    - [Comandos Básicos en Git](#comandos)
+# ¿Qué es Git? 
  lore ipsum
 
-## Instalación de git en windows y linux
+# Instalación de git en windows y linux git 
 
 lore ipsum
 
-## Comandos Básicos en Git
+# Comandos Básicos en Git
 
 Inicializar un repositorio
 ```bash
